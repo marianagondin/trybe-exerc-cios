@@ -1,4 +1,4 @@
-![](bannerdosblocos/trybe-exercicios-bloco01.png)
+![](../bannerdosblocos/trybe-exercicios-bloco01.png)
 
 ## Exercício 01.03 - Parte 1
 O objetivo dessa atividade é trabalhar a criação de diretórios e arquivos utilizando comandos básicos no terminal. É solicitado o seguinte: 
