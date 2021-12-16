@@ -24,3 +24,14 @@ O objetivo desse exercício é aprender a modificar o tamanho das fontes de uma 
 * Modifique a cor do texto do h1 para laranja
 * Modifique a cor de fundo da lista não ordenada
 * Crie uma classe para modificar a cor de fundo da tag p e da ul ao mesmo tempo
+
+## Exercício 03.02 - Propriedades de texto no CSS
+
+O objetivo desse exercício é praticar com alguns seletores CSS que modificam propriedades do texto nas páginas. É solicitado o seguinte:
+
+* Modifique o família do h1 para sans-serif
+* Deixe o parágrafo com o font-weight 600
+* Modifique o font-size do body para 16px
+* Coloque o tamanho do parágrafo com o tamanho de 3 vezes o padrão do body
+* Explore as propriedades font-style, line-height, text-align e text-decoration
+* Troque a cor de fundo de cada item da lista para a cor correspondente ao texto
