@@ -35,3 +35,9 @@ O objetivo desse exercício é praticar com alguns seletores CSS que modificam p
 * Coloque o tamanho do parágrafo com o tamanho de 3 vezes o padrão do body
 * Explore as propriedades font-style, line-height, text-align e text-decoration
 * Troque a cor de fundo de cada item da lista para a cor correspondente ao texto
+
+## Exercício 03.02 - CSS Inline e Externo
+
+O objetivo desse exercício é manipular as diversas maneiras de agregar a estilização ao seu documento HTML. É solicitado o seguinte:
+
+* Coloque todo o CSS criado até agora nos exercícios anteriores em um arquivo externo.
