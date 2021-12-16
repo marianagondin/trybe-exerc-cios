@@ -15,3 +15,12 @@ O objetivo desse exercício é aprender a adicionar links de outras páginas web
 * Crie um parágrafo para cada pessoa da sua lista.
 * Crie um link entre a sua lista e os parágrafos de pessoas.
 * Crie um link para a página do Google _(optei por uma página encontrada durante uma pesquisa no Google)_
+
+## Exercício 03.02 - Introdução ao CSS
+
+O objetivo desse exercício é aprender a modificar o tamanho das fontes de uma página, além de trazer mais cor estilizando alguns dos conteúdos exibidos ali. É solicitado o seguinte:
+
+* Modifique o tamanho do h1 para 65 pixels
+* Modifique a cor do texto do h1 para laranja
+* Modifique a cor de fundo da lista não ordenada
+* Crie uma classe para modificar a cor de fundo da tag p e da ul ao mesmo tempo
