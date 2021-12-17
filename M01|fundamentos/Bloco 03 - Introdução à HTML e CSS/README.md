@@ -41,3 +41,13 @@ O objetivo desse exercício é praticar com alguns seletores CSS que modificam p
 O objetivo desse exercício é manipular as diversas maneiras de agregar a estilização ao seu documento HTML. É solicitado o seguinte:
 
 * Coloque todo o CSS criado até agora nos exercícios anteriores em um arquivo externo.
+
+## Exercício 03.03 - Posicionamento de Elementos 
+
+O objetivo desse exercício é trabalhar o posicionamento de elementos já adicionados ao documento previamente para fixação de conteúdo. É solicitado o seguinte:
+
+* Posicione o Mário acima do Goomba.
+* Posicione a tag p para que fique dentro do balão de fala.
+* Posicione o balão para que se torne uma fala de Bowser.
+
+_*Os personagens citados pertencem à Nintendo©_
