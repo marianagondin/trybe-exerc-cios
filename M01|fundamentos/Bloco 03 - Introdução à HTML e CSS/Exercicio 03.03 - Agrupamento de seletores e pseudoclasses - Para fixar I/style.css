@@ -1,0 +1,26 @@
+body {
+    background-color: #cddafd;
+}
+
+h1, p {
+    text-align: center;
+    font-weight: 800;
+} 
+
+p {
+    text-decoration: underline;
+}
+
+li:hover {
+    background-color: #219ebc;
+}
+
+li:active {
+    font-family: monospace;
+    color:  white;
+    background-color: #023047;
+}
+
+li {
+    list-style: none;
+}
