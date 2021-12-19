@@ -82,3 +82,16 @@ O objetivo desse exercício é trabalhar com as divs sem atribuir nenhuma classe
 *  Estilize cada uma das tags h3 .
 *  Faça a terceira div ser maior que as demais.
 *  Deixe as tags ímpares h3 com o texto em itálico.
+
+## Exercício 03.03 - Combinações e Classes Descendentes
+
+O objetivo desse exercício é trabalhar com as combinações de classes em elementos HTML e também com a utilização da descendência entre as tags para aplicar estilizações à elementos específicos. É solicitado o seguinte:
+
+* Faça com que todos os itens de Listas Ordenadas tenham uma cor de fundo amarela. Se a numeração do item for PAR, faça a cor de fonte ser verde. Se o número for considerado ÍMPAR, utilize a propriedade text-transform para deixar o texto maiúsculo. (Dica: combinar classes pode ser útil aqui).
+* Faça todas as tags Header (h1, h2...) possuírem cor de fonte vermelha e, se alguma delas estiver em itálico, aumente seu tamanho para 40px e acrescente uma borda de 1px preta e sólida.
+* Faça todas as li's terem 20px de tamanho de fonte e, para todo texto em itálico dentro de alguma li, utilize a propriedade font-weight para deixá-lo negrito.
+* Na listagem de linguagens de programação, faça com que as 3 primeiras da lista possuam cor de fonte azul e, se alguma possuir "java*" no texto, utilize uma cor de fundo rosa.
+* (Bônus) Para cada link na lista de aliados da pessoa desenvolvedora, faça com que ao passar o mouse sobre cada um, o texto fique em negrito e assuma a cor de fonte "temática do site"
+
+_**Dica 1:** Utilize o seletor :hover para controlar o passar do mouse._
+_**Sugestão de cores padrão:** StackOverflow (laranja), W3Schools (verde), MDN (preta), DevDocs (amarela), Trybe (verde)._
