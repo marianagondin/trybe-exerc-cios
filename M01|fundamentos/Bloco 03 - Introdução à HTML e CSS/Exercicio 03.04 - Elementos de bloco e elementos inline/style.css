@@ -1,0 +1,56 @@
+    html {
+    text-align: center;
+    }
+
+  .first {
+    background-color: rgb(235, 200, 84);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 200px;
+  }
+
+  .second {
+    background-color: rgb(219, 219, 219);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 300px;
+  }
+
+  .third {
+    background-color: rgb(170, 142, 106);
+    font-size: 20px;
+    height: 50px;
+    text-align: center;
+    width: 300px;
+  }
+  
+ul .first {
+    display: block;
+    margin: auto;
+    padding-top: 20px;
+    text-align: center;
+  }
+
+  ul .second, ul .third {
+      width: 50%;
+      height: 50%;
+      padding: 25px;
+      padding-left: 50px;
+      padding-right: 50px;
+      line-height: 72px;
+      display: inline;
+      text-align: center;
+  }
+
+  h3 {
+      display: block;
+  }
+
+  .list-align li {
+      width: 50%;
+      height: 50%;
+      display: inline;
+      text-align: center;
+  }
