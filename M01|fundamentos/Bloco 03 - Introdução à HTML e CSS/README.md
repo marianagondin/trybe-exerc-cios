@@ -95,3 +95,13 @@ O objetivo desse exercício é trabalhar com as combinações de classes em elem
 
 _**Dica 1:** Utilize o seletor :hover para controlar o passar do mouse._
 _**Sugestão de cores padrão:** StackOverflow (laranja), W3Schools (verde), MDN (preta), DevDocs (amarela), Trybe (verde)._
+
+## Exercício 03.04 - Elementos de Bloco e Elementos Inline
+
+O objetivo desse exercício é entender como funcionam as propriedades display inline, block e inline-block, praticando as diversas maneiras das quais podem ser aplicadas. É solicitado o seguinte:
+
+* Copie o código HTML publicado ao final do conteúdo no Course. Em seguida, faça a implementação das propriedades CSS e, se necessário, faça adições à estrutura HTML existente, para que o resultado final seja similar à imagem referência.
+  _Lembre-se que a estrutura da página deve ser mantida para que a semântica do código seja preservada._
+
+![](../bannerdosblocos/estrutura-final-exercicio3.4.png)
+
