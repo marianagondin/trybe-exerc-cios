@@ -112,4 +112,4 @@ O objetivo dessa atividade bônus é conhecer alguns comandos legais e divertido
 * No sistema Linux , execute o comando sudo apt-get install cowsay , ou brew install cowsay no macOS . Após a instalação, execute o comando cowsay e algo que você queira falar. Agora faça a vaquinha dizer a frase que está gravada no arquivo fortune.txt ;
 * Descubra os fatores primos usando o comando factor e em seguida o número 42 ;
 * Veja como fica a sua sorte do dia ao contrário. Dica: utilize o comando rev .
-* Execute o comando telnet towel.blinkenlights.nl e espere alguns segundos. Lembre-se que você tem mais exercícios para fazer! 😅
+* Execute o comando telnet towel.blinkenlights.nl e espere alguns segundos.
