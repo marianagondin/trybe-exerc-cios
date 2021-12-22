@@ -1,6 +1,6 @@
 ![](../bannerdosblocos/trybe-exercicios-bloco04.png)
 
-## Exercicio 04.01 - JavaScript: Primeiros Passos
+## Exercicio 04.01 - Variáveis
 
 O objetivo desse exercício é entender o conceito de variáveis e constantes, convenção de nomenclatura Camel Case e o uso do plugin Code Runner no VS Code. É solicitado o seguinte:
 
