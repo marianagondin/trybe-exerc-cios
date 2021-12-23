@@ -67,7 +67,7 @@ O objetivo desse exercício é praticar os conhecimentos sobre essa segunda form
 
 ## Exercício 04.01 - Agora a prática!!
 
-O objetivo desse exercício é fazer quinze pequenos programas trabalhando com todo o conteúdo aprendido nesse bloco de uma única vez, desde a lógica condiciona e operadores aritméticos até a lógica dos operadores lógicos. É solicitado o seguinte:
+O objetivo desse exercício é fazer onze pequenos programas trabalhando com todo o conteúdo aprendido nesse bloco de uma única vez, desde a lógica condiciona e operadores aritméticos até a lógica dos operadores lógicos. É solicitado o seguinte:
 
 1. Faça cinco programas, um para cada operação aritmética básica. O programa deve ter duas constantes, a e b, definidas no começo com os valores que serão operados. Faça programas para:
 
