@@ -151,3 +151,9 @@ O objetivo desse exercício é entender melhor o conceito de armazenar mais de u
 * Obtenha o valor "Serviços" do array menu;
 * Procure o índice do valor "Portfólio" do array menu
 * Adicione o valor "Contato" no final do array menu
+
+## Exercício 04.02 - For
+
+O objetivo desse exercício é trabalhar com o loop for de modo a executar blocos de códigos inúmeras vezes. É solicitado o seguinte:
+
+* Utilize o for para imprimir os elementos da lista groceryList com o console.log()
