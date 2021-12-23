@@ -56,3 +56,11 @@ O objetivo desse exercício é trabalhar com os operadores lógicos afim de nos 
     - Se for algum dia de fim de semana, imprima "FINALMENTE, descanso merecido UwU".
 
 _Experimente trocar o valor da string ou até mesmo montar seu próprio algoritmo._
+
+## Exercício 04.01 - Switch e Case
+
+
+O objetivo desse exercício é praticar os conhecimentos sobre essa segunda forma de criar estruturas de condicionar antes de partir para a série de exercícios. É solicitado o seguinte:
+
+* Crie uma variável para armazenar o estado da pessoa candidata no processo seletivo, que pode ser: 'aprovada' , 'lista' ou 'reprovada';
+* Crie uma estrutura condicional com o switch/case que irá imprimir as mensagens do exercício anterior se o estado da pessoa candidata for 'aprovada', 'lista' ou 'reprovada'. Como default , imprima a mensagem de 'não se aplica'.
