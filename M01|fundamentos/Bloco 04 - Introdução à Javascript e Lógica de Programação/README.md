@@ -143,3 +143,11 @@ O objetivo desse exercício é fazer onze pequenos programas trabalhando com tod
   **RESULTADO: R$ 2.612,55**
 
     **Dica:** que tal identificar as alíquotas com variáveis de nomes explicativos?
+
+## Exercícios 04.02 - Arrays (Listas)
+
+O objetivo desse exercício é entender melhor o conceito de armazenar mais de um valor em uma mesma variável, criando um array e o manipulando da maneira que for necessária. É solicitado o seguinte:
+
+* Obtenha o valor "Serviços" do array menu;
+* Procure o índice do valor "Portfólio" do array menu
+* Adicione o valor "Contato" no final do array menu
