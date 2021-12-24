@@ -157,3 +157,9 @@ O objetivo desse exercício é entender melhor o conceito de armazenar mais de u
 O objetivo desse exercício é trabalhar com o loop for de modo a executar blocos de códigos inúmeras vezes. É solicitado o seguinte:
 
 * Utilize o for para imprimir os elementos da lista groceryList com o console.log()
+
+## Exercício 04.02 - For/of
+
+O objetivo desse exercício é consolidar ainda mais o conhecimento sobre essa nova funcionalidade do JavaScript, que itera arrays e objetos. É solicitado o seguinte:
+
+* Utilize o for/of para imprimir os elementos da lista names com o console.log()
