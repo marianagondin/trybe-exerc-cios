@@ -1,3 +1,5 @@
+// Utilizado gabarito da Trybe
+
 let array = ['java', 'javascript', 'python', 'html', 'css'];
 
 let biggestWord = array[0];
