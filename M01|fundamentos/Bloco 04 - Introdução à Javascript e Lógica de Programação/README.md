@@ -201,3 +201,8 @@ O objetivo desse exercício é praticar a lógica de programação e criação d
 O objetivo desse exercício é trabalhar com um exercício que exige mais da lógica de programação. É solicitado o seguinte:
 
 * Agora vamos trabalhar com algumas formas geométricas! Faça um programa que, dado um valor n qualquer, seja n > 1 , imprima na tela um quadrado feito de asteriscos de lado de tamanho n. 
+* Para o segundo exercício, faça o mesmo que antes, mas que imprima um triângulo retângulo com 5 asteriscos de base. 
+* Agora inverta o lado do triângulo. 
+* Depois, faça uma pirâmide com n asteriscos de base.
+* Faça uma pirâmide com n asteriscos de base que seja vazia no meio. Assuma que o valor de n será sempre ímpar.
+* Faça um programa que diz se um número definido numa variável é primo ou não.
