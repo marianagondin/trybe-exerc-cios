@@ -206,3 +206,13 @@ O objetivo desse exercício é trabalhar com um exercício que exige mais da ló
 * Depois, faça uma pirâmide com n asteriscos de base.
 * Faça uma pirâmide com n asteriscos de base que seja vazia no meio. Assuma que o valor de n será sempre ímpar.
 * Faça um programa que diz se um número definido numa variável é primo ou não.
+
+## Exercício 04.04 - Objetos 
+
+O objetivo deste exercício é fixar o conteúdo sobre estruturas ou coleções compostas por pares chave-valor, os chamados objetos. É solicitado o seguinte:
+
+* Crie um objeto player contendo as variáveis listadas no exercício.
+* Acesse as chaves name , lastName e age e concatene as suas informações para imprimir no console uma mensagem no seguinte formato: "A jogadora Marta Silva tem 34 anos de idade".
+* Adicione ao objeto a chave bestInTheWorld e atribua a esta chave um array contendo as datas em que a jogadora Marta foi considerada a melhor do mundo.
+* Acesse a chave bestInTheWorld e faça um console.log no seguinte formato: "A jogadora Marta Silva foi eleita a melhor do mundo por 6 vezes".
+* Acesse a chave medals e faça um console.log no seguinte formato: "A jogadora possui 2 medalhas de ouro e 3 medalhas de prata".
