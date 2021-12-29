@@ -216,3 +216,10 @@ O objetivo deste exercício é fixar o conteúdo sobre estruturas ou coleções 
 * Adicione ao objeto a chave bestInTheWorld e atribua a esta chave um array contendo as datas em que a jogadora Marta foi considerada a melhor do mundo.
 * Acesse a chave bestInTheWorld e faça um console.log no seguinte formato: "A jogadora Marta Silva foi eleita a melhor do mundo por 6 vezes".
 * Acesse a chave medals e faça um console.log no seguinte formato: "A jogadora possui 2 medalhas de ouro e 3 medalhas de prata".
+
+## Exercício 04.04 - For in
+
+O objetivo desse exercício é saber as diferenças entre _for in_ e _for of_, mostrando como percorrem cada elemento e/ou propriedade declarada. É solicitado o seguinte:
+
+* Usando o objeto abaixo, utilize For/in e imprima no console a mensagem 'Olá xxxxx' para cada nome, substituindo o xxxxx pelo nome em questão.
+* Usando o objeto abaixo, utilize For/in e imprima um console.log com as chaves e valores desse objeto.
