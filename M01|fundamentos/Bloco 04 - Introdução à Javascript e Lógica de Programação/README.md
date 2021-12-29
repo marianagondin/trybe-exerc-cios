@@ -186,3 +186,12 @@ O objetivo deste exercício é introduzir o conteúdo de introdução ao algorit
 * Ordene o array numbers em ordem crescente e imprima seus valores;
 * Ordene o array numbers em ordem decrescente e imprima seus valores;
 * Agora crie um novo array a partir do array numbers , sem perdê-lo. Cada valor do novo array deverá ser igual ao valor correspondente no array numbers multiplicado pelo seguinte. Por exemplo: o primeiro valor do novo array deverá ser 45, pois é a multiplicação de 5 (primeiro valor) e 9 (valor seguinte). Já o segundo valor do novo array deverá ser 27, pois é a multiplicação de 9 (segundo valor) e 3 (valor seguinte), e assim por diante. Caso não haja próximo valor, a multiplicação deverá ser feita por 2. Faça isso utilizando o for e o método push.
+
+## Exercício 04.03 - Agora a prática
+
+O objetivo desse exercício é praticar a lógica de programação e criação de algoritmos práticos e de fácil interpretação para aprofundar os conhecimentos sobre o assunto. É solicitado o seguinte:
+
+* Crie um algoritmo que retorne a fatorial de 10.
+* Agora, desenvolva um algoritmo que é capaz de inverter uma palavra. Por exemplo, a palavra "banana" seria invertida para "ananab". Utilize a string abaixo como exemplo, depois troque por outras para verificar se seu algoritmo está funcionando corretamente.
+* Considere o array de strings do exercício e escreva dois algoritmos: um que retorne a maior palavra deste array e outro que retorne a menor. Considere o número de caracteres de cada palavra.
+* Um número primo é aquele divisível apenas por 1 e por ele mesmo. Sabendo disso, escreva um algoritmo que retorne o maior número primo entre 0 e 50.
