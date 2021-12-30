@@ -236,3 +236,15 @@ O objetivo desse exercício é aprofundar no conteúdo estudado trabalhando tamb
 * Acesse as chaves nome , sobrenome e titulo , que está dentro da chave livrosFavoritos , e faça um console.log no seguinte formato: "O livro favorito de Julia Pessoa se chama 'O Pior Dia de Todos'".
 * Adicione um novo livro favorito na chave livrosFavoritos, que é um array, atribuindo a esta chave um objeto contendo as informações esperadas.
 * Acesse as chaves nome e livrosFavoritos e faça um console.log no seguinte formato: "Julia tem 2 livros favoritos".
+
+## Exercício 04.04 - Parte 2 - Funções
+
+O objetivo desse exercício é deixar nítido como funções com responsabilidades bem definidas deixam o código mais bem escrito. É solicitado o seguinte:
+
+* Crie uma função que receba uma string e retorne true se for um palíndromo, ou false , se não for.
+* Crie uma função que receba um array de inteiros e retorne o índice do maior valor.
+* Crie uma função que receba um array de inteiros e retorne o índice do menor valor.
+* Crie uma função que receba um array de nomes e retorne o nome com a maior quantidade de caracteres.
+* Crie uma função que receba um array de inteiros e retorne o inteiro que mais se repete.
+* Crie uma função que receba um número inteiro N e retorne o somatório de todos os números de 1 até N.
+* Crie uma função que receba uma string word e outra string ending . Verifique se a string ending é o final da string word . Considere que a string ending sempre será menor que a string word.
