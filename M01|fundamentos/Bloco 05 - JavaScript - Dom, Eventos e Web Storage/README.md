@@ -1,5 +1,13 @@
 ![](../bannerdosblocos/trybe-exercicios-bloco05.png)
 
+## Exercício 05.01 - DOM e seletores
+
+O objetivo deste exercício é trabalhar com os diversos tipos de seletores através do DOM. É solicitado o seguinte:
+
+* Recupere o elemento que contém o título da página e faça algo com ele, como alterá-lo para o nome do seu filme favorito.
+* Agora recupere o segundo parágrafo e use sua criatividade para alterá-lo.
+* Por fim, recupere o subtítulo e altere-o também.
+
 ## Exercício 05.01 - Funções de manipulação do DOM
 
 O objetivo deste exercício é aplicar os conhecimentos na manipulação de elementos do HTML. É solicitado o seguinte: 
