@@ -7,6 +7,11 @@ O objetivo deste exercício é trabalhar com os diversos tipos de seletores atra
 * Recupere o elemento que contém o título da página e faça algo com ele, como alterá-lo para o nome do seu filme favorito.
 * Agora recupere o segundo parágrafo e use sua criatividade para alterá-lo.
 * Por fim, recupere o subtítulo e altere-o também.
+* Adicione uma classe igual para os dois parágrafos.
+* Recupere os seus parágrafos via código JavaScript , usando a função getElementsByClassName.
+* Altere algum estilo do primeiro deles.
+* Recupere o subtítulo e altere a cor dele usando a função getElementsByTagName.
+
 
 ## Exercício 05.01 - Funções de manipulação do DOM
 
