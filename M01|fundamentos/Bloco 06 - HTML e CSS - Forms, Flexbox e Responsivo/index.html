@@ -9,9 +9,15 @@
 <body>
     <h1>Praticando Tela de Login!</h1>
     <form action="" method="get"> 
-        <input type="email" name="email" placeholder="Digite seu e-mail aqui :D" required autocomplete="off" autofocus>
-        <input type="password" name="senha" placeholder="Digite uma senha forte aqui :D" required>
-        <input type="checkbox">Lembre de mim</input>
+        <label for="input-email"> E-mail: <br>
+            <input type="email" name="email" id="input-email" placeholder="Digite o seu e-mail" required autocomplete="off" autofocus>
+        </label> <br><br>
+        <label for="input-password"> Senha: <br>
+            <input type="password" name="senha" id="input-password" placeholder="Digite a sua senha" required>
+        </label> <br><br>
+        <label for="checkbox-lembredemim">
+        <input type="checkbox" id="checkbox-lembredemim">Lembre de mim</input>
+        </label><br><br>
         <button>Entrar</button>
     </form>
 </body>
