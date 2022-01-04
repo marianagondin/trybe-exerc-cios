@@ -55,6 +55,46 @@
  Crie uma função que exiba o conteúdo de todas as tags <p> no console.
         */
 
+      function changeTitle () {
+        let title = document.getElementsByTagName("p")[0];
+        let subtitle = document.getElementsByTagName("p")[1];
+        title.innerText = "Como me vejo daqui a 2 anos:"
+        subtitle.innerText = "Daqui a dois anos me vejo trabalhando em uma empresa que me deixe livre para ser quem eu sou e traga meu lado mais criativo - um serviço leve e um ambiente feliz (o salário bom é bônus!)"
+      }
+      changeTitle();
+
+      function changeYellow () {
+        let yellowSquare = document.getElementsByClassName("main-content")[0];
+        yellowSquare.style.background = "rgb(76,164,109)";
+      }
+      changeYellow();
+      
+      function changeRed () {
+        let redSquare = document.getElementsByClassName("center-content")[0];
+        redSquare.style.background = "white";
+      }
+      changeRed();
+
+      function correct () {
+        let tittle = document.getElementsByTagName("h1")[0];
+        tittle.innerText = "Exercício 5.1 - JavaScript";
+      }
+      correct();
+
+      function paragraphMax () {
+        let paragraph = document.getElementsByTagName("p")[0];
+        paragraph.innerHTML = paragraph.innerHTML.toUpperCase();
+      }
+      paragraphMax();
+
+      function toShow () {
+        let allP = document.getElementsByTagName("p");
+        for (let i = 0; i < allP.length; i += 1) {
+          console.log(allP[i].innerHTML)
+        }
+      }
+      toShow();
+
     </script>
   </body>
 </html>
