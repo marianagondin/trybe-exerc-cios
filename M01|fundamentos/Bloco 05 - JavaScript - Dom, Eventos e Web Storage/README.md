@@ -39,4 +39,12 @@ O objetivo deste exercício é trabalhar com propriedades que visam buscar eleme
 * Agora acesse o terceiroFilho a partir de pai.
 
 
+## Exercício 05.02 - Parte II - Criando elementos
 
+O objetivo desse exercício é criar elementos HTML de maneira dinâmica usando o JavaScript. É solicitado o seguinte:
+
+* Crie um irmão para elementoOndeVoceEsta.
+* Crie um filho para elementoOndeVoceEsta.
+* Crie um filho para primeiroFilhoDoFilho.
+* A partir desse filho criado, acesse terceiroFilho.
+* 
