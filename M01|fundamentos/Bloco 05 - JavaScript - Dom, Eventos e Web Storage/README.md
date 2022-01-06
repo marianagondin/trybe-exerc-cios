@@ -47,3 +47,9 @@ O objetivo desse exercício é criar elementos HTML de maneira dinâmica usando 
 * Crie um filho para elementoOndeVoceEsta.
 * Crie um filho para primeiroFilhoDoFilho.
 * A partir desse filho criado, acesse terceiroFilho.
+
+## Exercício 05.02 - Parte III - Removendo elementos
+
+O objetivo desse exercício é remover elementos HTML de maneira dinâmica usando o JavaScript. É solicitado o seguinte:
+
+* Remova todos os elementos filhos de paiDoPai exceto pai, elementoOndeVoceEsta e primeiroFilhoDoFilho.
