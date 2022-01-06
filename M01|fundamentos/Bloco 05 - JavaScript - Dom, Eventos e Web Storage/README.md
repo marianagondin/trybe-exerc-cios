@@ -47,4 +47,3 @@ O objetivo desse exercício é criar elementos HTML de maneira dinâmica usando 
 * Crie um filho para elementoOndeVoceEsta.
 * Crie um filho para primeiroFilhoDoFilho.
 * A partir desse filho criado, acesse terceiroFilho.
-* 
