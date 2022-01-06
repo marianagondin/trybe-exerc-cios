@@ -26,6 +26,17 @@ O objetivo deste exercício é aplicar os conhecimentos na manipulação de elem
 
 _Obs: Aqui será modificado elementos já existentes usando apenas as funções aprendidas até então!_
 
+## Exercício 05.02 - Parte I - Buscando elementos
+
+O objetivo deste exercício é trabalhar com propriedades que visam buscar elementos navegando através de outros. É solicitado o seguinte:
+
+* Acesse o elemento elementoOndeVoceEsta.
+* Acesse pai a partir de elementoOndeVoceEsta e adicione uma color a ele.
+* Acesse o primeiroFilhoDoFilho e adicione um texto a ele. 
+* Acesse o primeiroFilho a partir de pai.
+* Agora acesse o primeiroFilho a partir de elementoOndeVoceEsta.
+* Agora acesse o terceiroFilho a partir de elementoOndeVoceEsta.
+* Agora acesse o terceiroFilho a partir de pai.
 
 
 
