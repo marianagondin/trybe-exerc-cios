@@ -73,3 +73,12 @@ O objetivo desse exercício é praticar todo o conteúdo aprendido nesse bloco. 
 * Centralize a section criado no passo 6 (aquele que possui a classe right-content ). Dica: para centralizar, basta configurar o margin-right: auto da section.
 * Troque a cor de fundo do elemento pai da section criada no passo 3 (aquela que possui a classe center-content ) para a cor verde.
 * Remova os dois últimos elementos ( nove e dez ) da lista criada no passo 8.
+
+## Exercício 05.03 - Conheça o addEventListener
+
+O objetivo desse exercício é aprofundar os conhecimentos sobre essa função nativa do JavaScript, que cria um escutador de eventos em um elemento. É solicitado o seguinte:
+
+* Crie uma função que adicione a classe 'tech' ao elemento 'li' quando for clicado.
+*  Crie uma função que, ao digitar na caixa de texto, altere o texto do elemento com a classe 'tech'.
+*  Crie uma função que, ao clicar duas vezes em 'Meu top 3 do Spotrybefy', ele redirecione para alguma página.
+*  Crie uma função que, ao passar o mouse sobre 'Meu top 3 do Spotrybefy', altere a cor do mesmo.
