@@ -1,5 +1,5 @@
 ![](../bannerdosblocos/trybe-exercicios-bloco06.png)
-https://github.com/marianagondin/trybe-exercicios/blob/main/M01%7Cfundamentos/Bloco%2006%20-%20HTML%20e%20CSS%20-%20Forms,%20Flexbox%20e%20Responsivo/README.md
+
 ## Exercício 06.01 - Parte II: input tag, types e attributes
 
 O objetivo desse exercício é praticar o conteúdo de formulário criando uma simples tela de login. É solicitado o seguinte:
