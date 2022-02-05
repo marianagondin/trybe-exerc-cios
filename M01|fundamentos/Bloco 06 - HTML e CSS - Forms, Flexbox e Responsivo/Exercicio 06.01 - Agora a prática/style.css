@@ -1,0 +1,60 @@
+* {
+    background-color: black;
+    margin: auto;
+    align-content: center;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+    font-family: 'Rowdies', cursive;
+    font-weight: 400;
+}
+
+#container {
+    background-color: white;  
+    margin-top: 50px; 
+    margin-bottom: 50px;
+    padding: 50px;
+    width: fit-content;
+}
+
+form, label, input, textarea, button {
+    background-color: white;
+    line-height: 30px;
+    font-family: monospace;
+    font-size: large;
+}
+
+input[type=text], input[type=email], textarea {
+    width: 100%;
+    border-radius: 5px;
+    border-color: black;
+}
+
+label[for="destino"], label[for="data"] {
+    line-height: 60px;
+}
+
+div#button {
+    background-color: white;
+    width: fit-content;
+    height: fit-content;
+    margin-top: 50px;
+}
+
+button {
+    padding: 10px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+button.disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
