@@ -55,3 +55,12 @@ O objetivo desse exercício é praticar a propriedade flexbox, trabalhando com f
 * Aplique um alinhamento para centralizar e outro para expandir.
 * Aplique uma propriedade com o valor 10 que expanda o container de filmes.
 * Adicione uma propriedade com o valor 1 que faça com que suas div do container de filmes ocupe todo o espaço em branco.
+
+## Exercício 06.03 - Trybe Tech Gallery
+
+O objetivo desse exercício é praticar as possibilidades que o flexbox nos traz para facilitar a estilização de um página web. É solicitado o seguinte: 
+
+* Crie um cabeçalho para sua aplicação utilizando a tag header. Este cabeçalho deve possuir 3 elementos e estes devem ser posicionados utilizando Flexbox. O resultado deverá ser similar à estrutura da página "Trybe Tech-Gallery".
+* Implemente o conteúdo da primeira section. Esta seção deverá conter no mínimo um elemento de texto.
+* Implemente o posicionamento da segunda section. Esta seção deverá conter no mínimo 6 imagens e um título para cada uma delas. Sinta-se livre para usar a imaginação e selecionar as imagens que preferir, só não esqueça de seguir a estrutura de posicionamento proposta. 
+* Por fim, faça o posicionamento do footer/rodapé, este é o ultimo elemento necessário para que nossa aplicação fique completa. O rodapé deverá conter no mínimo 2 elementos. 
