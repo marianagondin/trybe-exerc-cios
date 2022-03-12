@@ -64,3 +64,12 @@ O objetivo desse exercício é praticar a propriedade flexbox, trabalhando com f
 * Aplique um alinhamento para centralizar e outro para expandir.
 * Aplique uma propriedade com o valor 10 que expanda o container de filmes.
 * Adicione uma propriedade com o valor 1 que faça com que suas div do container de filmes ocupe todo o espaço em branco.
+
+# Exercício 06.05 - Mão na massa
+
+O objetivo desse exercício é compreender melhor sobre media querys. É solicitado o seguinte:
+
+* A primeira div só poderá aparecer se nossa tela possuir largura mínima de 500px.
+* A segunda div só poderá aparecer apenas se a largura estiver entre 600px e 1000px.
+* A terceira div não deverá aparecer se nossa tela possuir largura entre 650px e 950px.
+* Sem alterar a classe trick , faça com que o texto dela apareça somente quando a tela estiver com menos de 500px de largura.
